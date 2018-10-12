@@ -1,0 +1,117 @@
+.cl1{
+	width: 0;
+	height:0;
+	border-left: 270px solid transparent;
+	border-right: 150px solid transparent;
+	border-bottom: 200px solid #660033;
+	margin-left: 37%;
+	position: relative;
+}
+
+.cl2{
+	width:350px;
+	height:280px;
+	background: #993366;
+	margin-left: 40%;
+	position: relative;
+
+}
+.cl3{
+	width: 75px;
+	height: 115px;
+	background: #666699;
+	margin-left: 45%;
+	top: 50%;
+	left: 20%;
+	position: relative;
+	outline: 6px solid #FFCCFF;
+
+}
+.cl4{
+	width: 110px;
+	height: 75px;
+	background: #33CCFF;
+	bottom: 30%;
+	left: 10%;
+	position:relative;
+	outline: 4px solid #993300;
+}
+.cl5{
+	width: 100px;
+	height: 75px;
+	background: #33CCFF;
+	left: 150%;
+	position:relative;
+	outline: 4px solid #993300;
+}
+.cl6{
+	width: 150px;
+	height: 100px;
+	background: #33CCFF;
+	top:150%;
+	right: 175%;
+	position:relative;
+	outline: 4px solid #993300;
+}	
+.cl7{
+	width: 15px;
+	height: 15px;
+	background: #660033;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	position: relative;
+	border-radius: 50px;
+	margin-left: 80%;
+	margin-top: 65%;
+}
+.cl8{
+	width: 3px;
+	height: 78px;
+	background: #993300;
+	bottom: 240%;
+	position: relative;
+	right: -47%;
+}
+.cl9{
+	width: 3px;
+	height: 80px;
+	background: #993300;
+	bottom: 350%;
+	position:relative;
+	right: 110%;
+}
+.cl10{
+	width: 4px;
+	height: 100px;
+	background: #993300;
+	bottom: 300%;
+	position: relative;
+	right: 100%;
+}
+.cl11{
+	width: 40px;
+	height: 100px;
+	background: #660033; 
+	bottom:850%;
+	right: 125%;
+	position:relative;
+	
+}
+.cl12{
+	width: 80px;
+	position:relative;
+	border-bottom: 30px solid #660033;
+	right: 280px;
+	bottom: 640%;
+
+}
+.cl13{
+	width: 0;
+	height: 0;
+	border-right: 75px solid #660033;
+	border-bottom: 50px solid transparent;
+	position: relative;
+	margin-left: -275%;
+	margin-top: -575%;
+	outline: 4px black;
+}
